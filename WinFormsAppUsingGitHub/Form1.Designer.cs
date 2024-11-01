@@ -40,7 +40,7 @@
             label1.Name = "label1";
             label1.Size = new Size(354, 128);
             label1.TabIndex = 0;
-            label1.Text = "GitHub";
+            label1.Text = "ギットハブ";
             // 
             // button1
             // 
